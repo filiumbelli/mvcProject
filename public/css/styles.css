@@ -1,0 +1,24 @@
+.logo-image {
+    width: 150px;
+    height: 40px;
+}
+
+.navbar-default {
+    border-bottom: 2px solid #b1b0b0;
+    
+    background-color: #ffff;
+}
+.nav-link{
+    color: #212121;
+}
+.nav-link:hover{
+    color: #6e6e6e
+}
+.body{
+    background-color: #EEEEEE;
+}
+
+.navbar-toggler{
+    color:black;
+}
+
